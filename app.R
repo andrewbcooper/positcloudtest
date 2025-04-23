@@ -58,7 +58,7 @@ ui <- page_sidebar(
                    success ="#86C7ED"),
   
   # Add title
-  title = paste0("Effectiveness of DemoCo App Free Trial by Customer Segment ",Sys.time()),
+  title = paste0("Effectiveness of DemoCo App Free Trial by Customer Segment new push",Sys.time()),
   
   # Add sidebar elements
   sidebar = sidebar(title = "Select a segment of data to view",
