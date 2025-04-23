@@ -58,7 +58,7 @@ ui <- page_sidebar(
                    success ="#86C7ED"),
   
   # Add title
-  title = paste0("Effectiveness new push",Sys.time()),
+  title = paste0("new push with update",Sys.time()),
   
   # Add sidebar elements
   sidebar = sidebar(title = "Select a segment of data to view",
